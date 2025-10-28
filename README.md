@@ -152,7 +152,7 @@ Les chemins des fichiers de données et du modèle sont configurables dans les s
 - Données nettoyées: `data/processed/cleaned_data.csv`
 - Modèle: `data/model.pkl`
 
-## 👤 Auteur
+## 👤 Cédric BOIMIN
 
 Projet développé dans le cadre de l'apprentissage du Machine Learning appliqué au sport.
 
